@@ -1,0 +1,28 @@
+﻿=== builderr local admission preview: agent.py ===
+Running your bot across 3 real, public sample windows...
+
+  window                   Ret   MaxDD  Sharpe  Calmar  Trades
+  calm_uptrend          11.61%   2.53%    3.94   21.42      44
+  moderate_selloff      -4.02%   4.30%   -5.23   -6.60      41
+  vol_spike_snapback    -8.12%  10.54%   -2.98   -3.30      22
+
+Safety bar (exactly what admission gates on):
+  [PASS] runs clean, no errors
+  [PASS] no leverage breach   (peak gross 1.13x  <= 1.5x)
+  [PASS] no concentration breach (peak 22%; longest run >= 30% was 0d, limit is 5d)
+  [PASS] no blow-up           (worst drawdown 10.5%  < 50%)
+
+python : Traceback (most recent call last):
+At line:1 char:1
++ python preview.py 2>&1 | Out-File -Encoding utf8 preview_output.txt;  ...
++ ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\Users\Tanishq\OneDrive\Desktop\Antigravity\builderr-trading-template-main\preview.py", line 279, in <module>
+    sys.exit(main())
+  File "C:\Users\Tanishq\OneDrive\Desktop\Antigravity\builderr-trading-template-main\preview.py", line 267, in main
+    print("VERDICT: \u2713 You clear admission's safety bar ù you're very likely to be ADMITTED.")
+  File "C:\Users\Tanishq\AppData\Local\Programs\Python\Python310\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2713' in position 9: character maps to <undefined>

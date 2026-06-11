@@ -1,0 +1,49 @@
+﻿================================================================================
+ BUILDERR TRADING AGENT ù FULL EVALUATION SUITE
+================================================================================
+
+Loading regime data from sample_regimes.json.gz ...
+Regimes: ['calm_uptrend', 'moderate_selloff', 'vol_spike_snapback']
+Testing 18 agent files...
+
+  [agent.py] PASS  calmar=+2.28  ret=+27.3%  maxdd=32.5%  sharpe=1.23
+  [ai_momentum.py] PASS  calmar=+3.10  ret=+50.4%  maxdd=32.7%  sharpe=1.48
+  [baseline.py] PASS  calmar=+1.99  ret=+21.1%  maxdd=10.6%  sharpe=0.72
+  [drawdown_momentum.py] PASS  calmar=+1.30  ret=+8.6%  maxdd=12.3%  sharpe=0.74
+  [example_sector_rotation.py] PASS  calmar=+2.51  ret=+22.4%  maxdd=29.4%  sharpe=1.29
+  [example_vol_target.py] PASS  calmar=+2.61  ret=+17.5%  maxdd=28.1%  sharpe=1.33
+  [harsimran_agent.py] PASS  calmar=+1.86  ret=+15.0%  maxdd=13.5%  sharpe=0.88
+  [mohit_agent.py] PASS  calmar=+2.54  ret=+36.4%  maxdd=26.0%  sharpe=1.20
+  [momentum_v1.py] PASS  calmar=+2.60  ret=+45.4%  maxdd=17.4%  sharpe=0.73
+  [opu_agent.py] PASS  calmar=+3.01  ret=+27.2%  maxdd=27.3%  sharpe=1.21
+  [print_results.py] LOAD ERROR: [Errno 2] No such file or directory: 'evaluation_results.json'
+  [robert_agent.py] PASS  calmar=+1.83  ret=+20.6%  maxdd=13.8%  sharpe=1.21
+  [sankeerth_agent.py] PASS  calmar=+1.99  ret=+6.2%  maxdd=5.8%  sharpe=1.16
+  [seed_dual_momentum.py] PASS  calmar=+3.41  ret=+26.3%  maxdd=33.7%  sharpe=1.19
+  [shyam_agent.py] PASS  calmar=+1.33  ret=+6.9%  maxdd=15.6%  sharpe=0.85
+  [siddu_agent.py] PASS  calmar=+1.42  ret=+14.5%  maxdd=21.8%  sharpe=0.82
+  [sumegh_agent.py] PASS  calmar=+0.40  ret=+4.4%  maxdd=14.8%  sharpe=0.34
+  [zaid_agent.py] PASS  calmar=+1.26  ret=+15.4%  maxdd=23.4%  sharpe=0.87
+
+================================================================================
+ LEADERBOARD ù Ranked by Average Calmar Ratio
+================================================================================
+
+Rank  Agent                                AvgCalmar   AvgRet  AvgSharpe  WorstDD  Status
+--------------------------------------------------------------------------------
+python : Traceback (most recent call last):
+At line:1 char:1
++ python evaluate_all_agents.py 2>&1 | Out-File -Encoding utf8 eval_out ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\Users\Tanishq\OneDrive\Desktop\Antigravity\builderr-trading-template-main\evaluate_all_agents.py", line 
+300, in <module>
+    main()
+  File "C:\Users\Tanishq\OneDrive\Desktop\Antigravity\builderr-trading-template-main\evaluate_all_agents.py", line 
+262, in main
+    print(f"{i:<5} {name:<35} {data['avg_calmar']:>10.2f} {data['avg_ret']:>7.1%} "
+  File "C:\Users\Tanishq\AppData\Local\Programs\Python\Python310\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2713' in position 81: character maps to <undefined>
