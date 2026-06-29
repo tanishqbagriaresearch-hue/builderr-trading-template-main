@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-29T20:54:52Z",
+  "generated_at_utc": "2026-06-29T22:07:30Z",
   "as_of_market_date": "2026-06-29",
   "round_start": "2026-06-02",
   "start_cash": 100000.0,
@@ -8,9 +8,9 @@
     {
       "name": "zaid",
       "label": "round 1 \u00b7 entrant",
-      "equity": 110527.71,
-      "pnl": 10527.71,
-      "ret": 0.1053,
+      "equity": 110555.71,
+      "pnl": 10555.71,
+      "ret": 0.1056,
       "trades": 14
     },
     {
@@ -24,8 +24,8 @@
     {
       "name": "vol-target",
       "label": "reference",
-      "equity": 100419.75,
-      "pnl": 419.75,
+      "equity": 100419.99,
+      "pnl": 419.99,
       "ret": 0.0042,
       "trades": 15
     },
