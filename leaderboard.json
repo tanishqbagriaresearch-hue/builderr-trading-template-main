@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-15T16:16:47Z",
+  "generated_at_utc": "2026-07-15T18:04:25Z",
   "as_of_market_date": "2026-07-15",
   "round_start": "2026-06-02",
   "start_cash": 100000.0,
@@ -8,113 +8,113 @@
     {
       "name": "vol-target",
       "label": "reference",
-      "equity": 100027.83,
-      "pnl": 27.83,
-      "ret": 0.0003,
+      "equity": 100191.06,
+      "pnl": 191.06,
+      "ret": 0.0019,
       "trades": 15
     },
     {
       "name": "shyam",
       "label": "round 1 \u00b7 entrant",
-      "equity": 99402.08,
-      "pnl": -597.92,
-      "ret": -0.006,
+      "equity": 99819.04,
+      "pnl": -180.96,
+      "ret": -0.0018,
       "trades": 15
-    },
-    {
-      "name": "sankeerth",
-      "label": "round 1 \u00b7 entrant",
-      "equity": 98777.48,
-      "pnl": -1222.52,
-      "ret": -0.0122,
-      "trades": 32
     },
     {
       "name": "dual-momentum-rotation",
       "label": "house \u00b7 all-weather",
-      "equity": 98704.02,
-      "pnl": -1295.98,
-      "ret": -0.013,
+      "equity": 99395.91,
+      "pnl": -604.09,
+      "ret": -0.006,
       "trades": 5
+    },
+    {
+      "name": "sankeerth",
+      "label": "round 1 \u00b7 entrant",
+      "equity": 98940.51,
+      "pnl": -1059.49,
+      "ret": -0.0106,
+      "trades": 32
     },
     {
       "name": "ai-momentum-basket",
       "label": "house \u00b7 aggressive",
-      "equity": 97392.47,
-      "pnl": -2607.53,
-      "ret": -0.0261,
+      "equity": 97979.38,
+      "pnl": -2020.62,
+      "ret": -0.0202,
       "trades": 9
     },
     {
       "name": "opu",
       "label": "round 1 \u00b7 entrant",
-      "equity": 96918.15,
-      "pnl": -3081.85,
-      "ret": -0.0308,
+      "equity": 97738.38,
+      "pnl": -2261.62,
+      "ret": -0.0226,
       "trades": 12
-    },
-    {
-      "name": "drawdown-momentum",
-      "label": "house \u00b7 the bar to beat",
-      "equity": 96117.54,
-      "pnl": -3882.46,
-      "ret": -0.0388,
-      "trades": 28
     },
     {
       "name": "sector-rotation",
       "label": "reference",
-      "equity": 95810.53,
-      "pnl": -4189.47,
-      "ret": -0.0419,
+      "equity": 96698.84,
+      "pnl": -3301.16,
+      "ret": -0.033,
       "trades": 4
     },
     {
-      "name": "harsimran",
-      "label": "round 1 \u00b7 entrant",
-      "equity": 93298.47,
-      "pnl": -6701.53,
-      "ret": -0.067,
-      "trades": 77
+      "name": "drawdown-momentum",
+      "label": "house \u00b7 the bar to beat",
+      "equity": 96344.67,
+      "pnl": -3655.33,
+      "ret": -0.0366,
+      "trades": 28
     },
     {
       "name": "zaid",
       "label": "round 1 \u00b7 entrant",
-      "equity": 92577.42,
-      "pnl": -7422.58,
-      "ret": -0.0742,
+      "equity": 94292.07,
+      "pnl": -5707.93,
+      "ret": -0.0571,
       "trades": 30
     },
     {
-      "name": "robert",
+      "name": "harsimran",
       "label": "round 1 \u00b7 entrant",
-      "equity": 91987.56,
-      "pnl": -8012.44,
-      "ret": -0.0801,
-      "trades": 61
+      "equity": 93969.02,
+      "pnl": -6030.98,
+      "ret": -0.0603,
+      "trades": 77
     },
     {
       "name": "sumegh",
       "label": "round 1 \u00b7 entrant",
-      "equity": 90418.67,
-      "pnl": -9581.33,
-      "ret": -0.0958,
+      "equity": 92698.55,
+      "pnl": -7301.45,
+      "ret": -0.073,
       "trades": 10
+    },
+    {
+      "name": "robert",
+      "label": "round 1 \u00b7 entrant",
+      "equity": 92094.44,
+      "pnl": -7905.56,
+      "ret": -0.0791,
+      "trades": 61
     },
     {
       "name": "mohit",
       "label": "round 1 \u00b7 entrant",
-      "equity": 90294.73,
-      "pnl": -9705.27,
-      "ret": -0.0971,
+      "equity": 91820.28,
+      "pnl": -8179.72,
+      "ret": -0.0818,
       "trades": 26
     },
     {
       "name": "siddu",
       "label": "round 1 \u00b7 entrant",
-      "equity": 82064.64,
-      "pnl": -17935.36,
-      "ret": -0.1794,
+      "equity": 83686.28,
+      "pnl": -16313.72,
+      "ret": -0.1631,
       "trades": 71
     }
   ]
