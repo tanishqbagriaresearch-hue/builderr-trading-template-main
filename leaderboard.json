@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-24T20:16:38Z",
+  "generated_at_utc": "2026-07-24T22:01:16Z",
   "as_of_market_date": "2026-07-24",
   "round_start": "2026-06-02",
   "start_cash": 100000.0,
@@ -112,8 +112,8 @@
     {
       "name": "siddu",
       "label": "round 1 \u00b7 entrant",
-      "equity": 79681.37,
-      "pnl": -20318.63,
+      "equity": 79681.07,
+      "pnl": -20318.93,
       "ret": -0.2032,
       "trades": 92
     }
