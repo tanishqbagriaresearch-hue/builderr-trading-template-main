@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-04T21:06:20Z",
+  "generated_at_utc": "2026-08-04T22:57:48Z",
   "as_of_market_date": "2026-08-04",
   "round_start": "2026-06-02",
   "start_cash": 100000.0,
@@ -104,9 +104,9 @@
     {
       "name": "sumegh",
       "label": "round 1 \u00b7 entrant",
-      "equity": 86628.95,
-      "pnl": -13371.05,
-      "ret": -0.1337,
+      "equity": 86609.18,
+      "pnl": -13390.82,
+      "ret": -0.1339,
       "trades": 21
     },
     {
