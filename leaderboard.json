@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-12T20:44:13Z",
+  "generated_at_utc": "2026-08-12T21:40:20Z",
   "as_of_market_date": "2026-08-12",
   "round_start": "2026-06-02",
   "start_cash": 100000.0,
@@ -56,10 +56,10 @@
     {
       "name": "drawdown-momentum",
       "label": "house \u00b7 the bar to beat",
-      "equity": 94622.08,
-      "pnl": -5377.92,
-      "ret": -0.0538,
-      "trades": 55
+      "equity": 94909.84,
+      "pnl": -5090.16,
+      "ret": -0.0509,
+      "trades": 56
     },
     {
       "name": "robert",
@@ -72,9 +72,9 @@
     {
       "name": "harsimran",
       "label": "round 1 \u00b7 entrant",
-      "equity": 92771.73,
-      "pnl": -7228.27,
-      "ret": -0.0723,
+      "equity": 92850.11,
+      "pnl": -7149.89,
+      "ret": -0.0715,
       "trades": 147
     },
     {
