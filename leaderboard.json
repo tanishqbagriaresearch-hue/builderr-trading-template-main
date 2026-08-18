@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-18T20:17:04Z",
+  "generated_at_utc": "2026-08-18T21:18:53Z",
   "as_of_market_date": "2026-08-18",
   "round_start": "2026-06-02",
   "start_cash": 100000.0,
@@ -40,8 +40,8 @@
     {
       "name": "sankeerth",
       "label": "round 1 \u00b7 entrant",
-      "equity": 98903.12,
-      "pnl": -1096.88,
+      "equity": 98903.13,
+      "pnl": -1096.87,
       "ret": -0.011,
       "trades": 55
     },
@@ -56,33 +56,33 @@
     {
       "name": "drawdown-momentum",
       "label": "house \u00b7 the bar to beat",
-      "equity": 94654.34,
-      "pnl": -5345.66,
-      "ret": -0.0535,
+      "equity": 94353.25,
+      "pnl": -5646.75,
+      "ret": -0.0565,
       "trades": 63
     },
     {
       "name": "harsimran",
       "label": "round 1 \u00b7 entrant",
-      "equity": 92576.0,
-      "pnl": -7424.0,
-      "ret": -0.0742,
-      "trades": 154
+      "equity": 92820.42,
+      "pnl": -7179.58,
+      "ret": -0.0718,
+      "trades": 152
     },
     {
       "name": "robert",
       "label": "round 1 \u00b7 entrant",
-      "equity": 92537.4,
-      "pnl": -7462.6,
-      "ret": -0.0746,
+      "equity": 92514.13,
+      "pnl": -7485.87,
+      "ret": -0.0749,
       "trades": 86
     },
     {
       "name": "zaid",
       "label": "round 1 \u00b7 entrant",
-      "equity": 90325.09,
-      "pnl": -9674.91,
-      "ret": -0.0967,
+      "equity": 90317.13,
+      "pnl": -9682.87,
+      "ret": -0.0968,
       "trades": 85
     },
     {
@@ -96,8 +96,8 @@
     {
       "name": "mohit",
       "label": "round 1 \u00b7 entrant",
-      "equity": 86279.99,
-      "pnl": -13720.01,
+      "equity": 86284.13,
+      "pnl": -13715.87,
       "ret": -0.1372,
       "trades": 56
     },
@@ -112,10 +112,10 @@
     {
       "name": "siddu",
       "label": "round 1 \u00b7 entrant",
-      "equity": 77514.05,
-      "pnl": -22485.95,
-      "ret": -0.2249,
-      "trades": 141
+      "equity": 77408.73,
+      "pnl": -22591.27,
+      "ret": -0.2259,
+      "trades": 143
     }
   ]
 }
