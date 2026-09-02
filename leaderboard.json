@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-01T22:57:54Z",
-  "as_of_market_date": "2026-09-01",
+  "generated_at_utc": "2026-09-02T16:58:27Z",
+  "as_of_market_date": "2026-09-02",
   "round_start": "2026-06-02",
   "start_cash": 100000.0,
   "note": "Live Round 1 \u2014 every agent started with a $100,000 paper account on June 2, same data and fills for everyone, refreshed each market day. The final winner is risk-adjusted (see rules), so no one wins on a single lucky bet.",
@@ -8,114 +8,114 @@
     {
       "name": "dual-momentum-rotation",
       "label": "house \u00b7 all-weather",
-      "equity": 101034.01,
-      "pnl": 1034.01,
-      "ret": 0.0103,
+      "equity": 101398.99,
+      "pnl": 1398.99,
+      "ret": 0.014,
       "trades": 5
     },
     {
       "name": "vol-target",
       "label": "reference",
-      "equity": 100737.22,
-      "pnl": 737.22,
-      "ret": 0.0074,
+      "equity": 100864.3,
+      "pnl": 864.3,
+      "ret": 0.0086,
       "trades": 15
     },
     {
       "name": "opu",
       "label": "round 1 \u00b7 entrant",
-      "equity": 99774.61,
-      "pnl": -225.39,
-      "ret": -0.0023,
-      "trades": 24
+      "equity": 99940.88,
+      "pnl": -59.12,
+      "ret": -0.0006,
+      "trades": 28
     },
     {
       "name": "sector-rotation",
       "label": "reference",
-      "equity": 98670.05,
-      "pnl": -1329.95,
-      "ret": -0.0133,
+      "equity": 99044.32,
+      "pnl": -955.68,
+      "ret": -0.0096,
       "trades": 11
     },
     {
       "name": "sankeerth",
       "label": "round 1 \u00b7 entrant",
-      "equity": 98178.2,
-      "pnl": -1821.8,
-      "ret": -0.0182,
+      "equity": 97926.96,
+      "pnl": -2073.04,
+      "ret": -0.0207,
       "trades": 73
     },
     {
       "name": "ai-momentum-basket",
       "label": "house \u00b7 aggressive",
-      "equity": 96690.93,
-      "pnl": -3309.07,
-      "ret": -0.0331,
+      "equity": 97469.12,
+      "pnl": -2530.88,
+      "ret": -0.0253,
       "trades": 9
     },
     {
       "name": "drawdown-momentum",
       "label": "house \u00b7 the bar to beat",
-      "equity": 94132.48,
-      "pnl": -5867.52,
-      "ret": -0.0587,
+      "equity": 94472.49,
+      "pnl": -5527.51,
+      "ret": -0.0553,
       "trades": 69
     },
     {
       "name": "zaid",
       "label": "round 1 \u00b7 entrant",
-      "equity": 93409.7,
-      "pnl": -6590.3,
-      "ret": -0.0659,
+      "equity": 93153.34,
+      "pnl": -6846.66,
+      "ret": -0.0685,
       "trades": 109
     },
     {
       "name": "harsimran",
       "label": "round 1 \u00b7 entrant",
-      "equity": 92126.52,
-      "pnl": -7873.48,
-      "ret": -0.0787,
-      "trades": 204
+      "equity": 92050.77,
+      "pnl": -7949.23,
+      "ret": -0.0795,
+      "trades": 211
     },
     {
       "name": "robert",
       "label": "round 1 \u00b7 entrant",
-      "equity": 91160.88,
-      "pnl": -8839.12,
-      "ret": -0.0884,
+      "equity": 91283.59,
+      "pnl": -8716.41,
+      "ret": -0.0872,
       "trades": 99
     },
     {
       "name": "shyam",
       "label": "round 1 \u00b7 entrant",
-      "equity": 86498.29,
-      "pnl": -13501.71,
-      "ret": -0.135,
+      "equity": 85914.64,
+      "pnl": -14085.36,
+      "ret": -0.1409,
       "trades": 48
     },
     {
       "name": "mohit",
       "label": "round 1 \u00b7 entrant",
-      "equity": 84023.52,
-      "pnl": -15976.48,
-      "ret": -0.1598,
+      "equity": 84382.65,
+      "pnl": -15617.35,
+      "ret": -0.1562,
       "trades": 62
     },
     {
       "name": "sumegh",
       "label": "round 1 \u00b7 entrant",
-      "equity": 78689.1,
-      "pnl": -21310.9,
-      "ret": -0.2131,
-      "trades": 36
+      "equity": 79471.2,
+      "pnl": -20528.8,
+      "ret": -0.2053,
+      "trades": 37
     },
     {
       "name": "siddu",
       "label": "round 1 \u00b7 entrant",
-      "equity": 74229.49,
-      "pnl": -25770.51,
-      "ret": -0.2577,
-      "trades": 171
+      "equity": 75180.76,
+      "pnl": -24819.24,
+      "ret": -0.2482,
+      "trades": 175
     }
   ]
 }
