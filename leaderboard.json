@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-07T21:53:58Z",
+  "generated_at_utc": "2026-09-07T23:55:15Z",
   "as_of_market_date": "2026-09-04",
   "round_start": "2026-06-02",
   "start_cash": 100000.0,
@@ -48,8 +48,8 @@
     {
       "name": "sankeerth",
       "label": "round 1 \u00b7 entrant",
-      "equity": 98520.0,
-      "pnl": -1480.0,
+      "equity": 98520.01,
+      "pnl": -1479.99,
       "ret": -0.0148,
       "trades": 73
     },
