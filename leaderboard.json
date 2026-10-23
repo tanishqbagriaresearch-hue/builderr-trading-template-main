@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-23T20:54:08Z",
+  "generated_at_utc": "2026-10-23T23:44:40Z",
   "as_of_market_date": "2026-10-23",
   "round_start": "2026-06-02",
   "start_cash": 100000.0,
@@ -16,8 +16,8 @@
     {
       "name": "vol-target",
       "label": "reference",
-      "equity": 100940.21,
-      "pnl": 940.21,
+      "equity": 100940.22,
+      "pnl": 940.22,
       "ret": 0.0094,
       "trades": 14
     },
@@ -64,8 +64,8 @@
     {
       "name": "harsimran",
       "label": "round 1 \u00b7 entrant",
-      "equity": 88266.14,
-      "pnl": -11733.86,
+      "equity": 88266.13,
+      "pnl": -11733.87,
       "ret": -0.1173,
       "trades": 288
     },
