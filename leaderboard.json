@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-17T21:30:09Z",
+  "generated_at_utc": "2026-11-18T03:19:25Z",
   "as_of_market_date": "2026-11-17",
   "round_start": "2026-06-02",
   "start_cash": 100000.0,
@@ -32,9 +32,9 @@
     {
       "name": "dual-momentum-rotation",
       "label": "house \u00b7 all-weather",
-      "equity": 96388.85,
-      "pnl": -3611.15,
-      "ret": -0.0361,
+      "equity": 96384.94,
+      "pnl": -3615.06,
+      "ret": -0.0362,
       "trades": 5
     },
     {
@@ -48,8 +48,8 @@
     {
       "name": "drawdown-momentum",
       "label": "house \u00b7 the bar to beat",
-      "equity": 93461.41,
-      "pnl": -6538.59,
+      "equity": 93460.61,
+      "pnl": -6539.39,
       "ret": -0.0654,
       "trades": 115
     },
@@ -104,8 +104,8 @@
     {
       "name": "siddu",
       "label": "round 1 \u00b7 entrant",
-      "equity": 72013.9,
-      "pnl": -27986.1,
+      "equity": 72013.89,
+      "pnl": -27986.11,
       "ret": -0.2799,
       "trades": 271
     },
